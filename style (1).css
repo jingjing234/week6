@@ -1,0 +1,22 @@
+div{
+    width: 600px;
+    height: 350px;
+    background-color: lavender;
+}
+
+img{
+    height: 350px;
+    float: left;
+}
+
+h1{
+    color: black;
+}
+
+p{
+    color: black;
+}
+
+body{
+    background-image: url("https://img.freepik.com/premium-vector/vector-seamless-pattern-movie-filming-production-is-made-various-element_387335-860.jpg");
+}
